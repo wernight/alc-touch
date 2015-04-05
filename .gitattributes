@@ -1,0 +1,14 @@
+* text=auto
+
+*.fra text eol=crlf
+*.vbp text eol=crlf
+*.vbw text eol=crlf
+*.frm text eol=crlf
+*.nsi text eol=crlf
+*.txt text eol=crlf
+
+*.bmp binary
+*.dll binary
+*.frx binary
+*.ocx binary
+*.exe binary

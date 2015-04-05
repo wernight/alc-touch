@@ -1,0 +1,39 @@
+ALCTouch (Version 1.0)
+Copyright (c) 1999-2003 ALC Informatique (www.alc.net)
+
+This software, working with Windows(c) 95/98, allow you to modify files one by one or all files from a directory.
+You may change the attributs, the date and time, change uppercase/lowercase and rename files.
+
+ALC Informatique offer you this software in its complete version.
+This software may be given to your friends but not be sold.
+All of its elements must be given with the main program and no change can be done without the permission of its author.
+
+
+ALC Informatique
+25 rue Roger Forget
+94360 Bry sur Marne
+http://www.alc.net
+E-Mail: alc@alc.net
+
+Required: PC 486 with 8 Mo RAM, SVGA Video card with 256-colors, Windows(c) 95/98.
+
+================================================================================
+ALCTouch (Version 1.0)
+Copyright (c) 1999-2003 ALC Informatique (www.alc.net)
+
+Ce logiciel travaillant sous Windows(c) 95/98, permet de modifier les fichiers, un par un ou par lot.
+Il a de puissantes fonctions pour modifier les attributs, la date et l'heure, convertir majuscules/minuscules, et renomer les fichiers.
+
+ALC Informatique vous offre ce logiciel dans sa version complête et non limitée.
+Ce logiciel peut être librement donné à vos amis à condition que tous les fichiers le composant soient présents, mais le code ne peut être modifié sans l'autorisation de son auteur.
+
+Ce logiciel ne devra jamais être vendu.
+
+
+ALC Informatique
+25 rue Roger Forget
+94360 Bry sur Marne
+http://www.alc.net
+E-Mail: alc@alc.net
+
+Configuration minimale PC : 486 avec 8 Mo RAM, Carte Video SVGA 256-couleurs, Windows(c) 95/98.
